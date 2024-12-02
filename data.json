@@ -1,0 +1,279 @@
+[
+    {
+      "_id": "b5a6f7e1-a3c5-4fd5-9b60-45a9ad3e29cd",
+      "isRemoteWork": false,
+      "user_avatar": "https://url.com/image1.png",
+      "first_name": "Zoro",
+      "last_name": "Roronoa",
+      "first_native_name": "Zoro",
+      "last_native_name": "Roronoa",
+      "middle_native_name": null,
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1201",
+      "date_birth": {
+        "year": 1987,
+        "month": 10,
+        "day": 11
+      },
+      "desk_number": 22,
+      "manager": {
+        "id": "123abc45-de67-89f0-gh12-34ij567klm89",
+        "first_name": "Kakashi",
+        "last_name": "Hatake"
+      },
+      "phone": "+12223334444",
+      "email": "zoro.roronoa@leverx.com",
+      "skype": "live:zoro.roronoa",
+      "cnumber": "C1234567",
+      "citizenship": "Japan",
+      "visa": [
+        {
+          "issuing_country": "Germany",
+          "type": "Schengen visa",
+          "start_date": 1683622800000,
+          "end_date": 1709142000000
+        }
+      ]
+    },
+    {
+      "_id": "f4a6dbe7-32bf-4d29-818f-5cb6f1d3c712",
+      "isRemoteWork": true,
+      "user_avatar": "https://url.com/image2.png",
+      "first_name": "Nami",
+      "last_name": "Cat",
+      "first_native_name": "Nami",
+      "last_native_name": "Cat",
+      "middle_native_name": null,
+      "department": "Finance",
+      "building": "Central Office (USA)",
+      "room": "202",
+      "date_birth": {
+        "year": 1990,
+        "month": 7,
+        "day": 3
+      },
+      "desk_number": 45,
+      "manager": {
+        "id": "444xyz88-5a6f-9b7c-gh3j-123abc4klm56",
+        "first_name": "Robin",
+        "last_name": "Nico"
+      },
+      "phone": "+12345678910",
+      "email": "nami.cat@leverx.com",
+      "skype": "live:nami.cat",
+      "cnumber": "C8765432",
+      "citizenship": "USA",
+      "visa": []
+    },
+    {
+      "_id": "a56dce8a-24c6-49a8-83f5-dff2ec47a411",
+      "isRemoteWork": false,
+      "user_avatar": "https://url.com/image3.png",
+      "first_name": "Sanji",
+      "last_name": "Vinsmoke",
+      "first_native_name": "Sanji",
+      "last_native_name": "Vinsmoke",
+      "middle_native_name": null,
+      "department": "Culinary",
+      "building": "Gourmet Plaza (France)",
+      "room": "B12",
+      "date_birth": {
+        "year": 1989,
+        "month": 3,
+        "day": 2
+      },
+      "desk_number": 7,
+      "manager": {
+        "id": "999xyz33-de67-gh34-ij45-klm78910op11",
+        "first_name": "Zeff",
+        "last_name": "Red-Leg"
+      },
+      "phone": "+33355577799",
+      "email": "sanji.vinsmoke@leverx.com",
+      "skype": "live:sanji.vinsmoke",
+      "cnumber": "C9988776",
+      "citizenship": "France",
+      "visa": []
+    },
+    {
+      "_id": "c34b5f8e-15b8-472d-a4c5-4f98f6c3a12f",
+      "isRemoteWork": true,
+      "user_avatar": "https://url.com/image4.png",
+      "first_name": "Usopp",
+      "last_name": "Sniper",
+      "first_native_name": "Usopp",
+      "last_native_name": "Sniper",
+      "middle_native_name": null,
+      "department": "Engineering",
+      "building": "Island Base (UK)",
+      "room": "4002",
+      "date_birth": {
+        "year": 1992,
+        "month": 6,
+        "day": 23
+      },
+      "desk_number": 14,
+      "manager": {
+        "id": "567xyz88-gh12-ij45-kl78-lm9012345678",
+        "first_name": "Franky",
+        "last_name": "Shipwright"
+      },
+      "phone": "+441234567890",
+      "email": "usopp.sniper@leverx.com",
+      "skype": "live:usopp.sniper",
+      "cnumber": "C6677889",
+      "citizenship": "UK",
+      "visa": []
+    },
+    {
+      "_id": "e67af9b2-cbfa-45a1-8d27-fadc3b543c89",
+      "isRemoteWork": false,
+      "user_avatar": "https://url.com/image5.png",
+      "first_name": "Chopper",
+      "last_name": "Tony",
+      "first_native_name": "Chopper",
+      "last_native_name": "Tony",
+      "middle_native_name": null,
+      "department": "Healthcare",
+      "building": "Central Hospital (Germany)",
+      "room": "201",
+      "date_birth": {
+        "year": 1999,
+        "month": 12,
+        "day": 24
+      },
+      "desk_number": 32,
+      "manager": {
+        "id": "8xy9abcd-gh45-ijkl-6mnop-1234qrstu5678",
+        "first_name": "Hogback",
+        "last_name": "Doctor"
+      },
+      "phone": "+49123123123",
+      "email": "chopper.tony@leverx.com",
+      "skype": "live:chopper.tony",
+      "cnumber": "C3344556",
+      "citizenship": "Germany",
+      "visa": []
+    },
+    {
+      "_id": "f78cdf23-1abc-4c32-b8d9-54ec6e8a4567",
+      "isRemoteWork": true,
+      "user_avatar": "https://url.com/image6.png",
+      "first_name": "Robin",
+      "last_name": "Nico",
+      "first_native_name": "Robin",
+      "last_native_name": "Nico",
+      "middle_native_name": null,
+      "department": "Research",
+      "building": "Ancient Library (Italy)",
+      "room": "A101",
+      "date_birth": {
+        "year": 1985,
+        "month": 2,
+        "day": 6
+      },
+      "desk_number": 1,
+      "manager": {
+        "id": "11xy9bc4-gh45-6ij7-klmn-opqrstu56789",
+        "first_name": "Saul",
+        "last_name": "Jaguar"
+      },
+      "phone": "+391234567890",
+      "email": "robin.nico@leverx.com",
+      "skype": "live:robin.nico",
+      "cnumber": "C1122334",
+      "citizenship": "Italy",
+      "visa": []
+    },
+    {
+      "_id": "g90bcde4-5a12-678f-gh34-89ij567k78lm",
+      "isRemoteWork": false,
+      "user_avatar": "https://url.com/image7.png",
+      "first_name": "Brook",
+      "last_name": "Soul",
+      "first_native_name": "Brook",
+      "last_native_name": "Soul",
+      "middle_native_name": null,
+      "department": "Entertainment",
+      "building": "Music Hall (Jamaica)",
+      "room": "X33",
+      "date_birth": {
+        "year": 1960,
+        "month": 4,
+        "day": 3
+      },
+      "desk_number": 2,
+      "manager": {
+        "id": "90ab45xy-gh67-ij89-kl12-mnopqr567890",
+        "first_name": "Bach",
+        "last_name": "Johann"
+      },
+      "phone": "+18765543322",
+      "email": "brook.soul@leverx.com",
+      "skype": "live:brook.soul",
+      "cnumber": "C4455667",
+      "citizenship": "Jamaica",
+      "visa": []
+    },
+    {
+      "_id": "h12cde45-6f78-910g-hijk-567lm8901234",
+      "isRemoteWork": true,
+      "user_avatar": "https://url.com/image8.png",
+      "first_name": "Franky",
+      "last_name": "Shipwright",
+      "first_native_name": "Franky",
+      "last_native_name": "Shipwright",
+      "middle_native_name": null,
+      "department": "Engineering",
+      "building": "Sunny Shipyard (Spain)",
+      "room": "Dock 1",
+      "date_birth": {
+        "year": 1982,
+        "month": 5,
+        "day": 10
+      },
+      "desk_number": 99,
+      "manager": {
+        "id": "34xy567z-gh90-ijkl-mn12-opqrst567890",
+        "first_name": "Tom",
+        "last_name": "Foreman"
+      },
+      "phone": "+349123456789",
+      "email": "franky.shipwright@leverx.com",
+      "skype": "live:franky.shipwright",
+      "cnumber": "C9988112",
+      "citizenship": "Spain",
+      "visa": []
+    },
+    {
+      "_id": "i34def56-789g-hijk-9012-lmnopqr34567",
+      "isRemoteWork": false,
+      "user_avatar": "https://url.com/image9.png",
+      "first_name": "Jinbe",
+      "last_name": "Knight",
+      "first_native_name": "Jinbe",
+      "last_native_name": "Knight",
+      "middle_native_name": null,
+      "department": "Security",
+      "building": "Blue Base (Maldives)",
+      "room": "101",
+      "date_birth": {
+        "year": 1975,
+        "month": 8,
+        "day": 30
+      },
+      "desk_number": 23,
+      "manager": {
+        "id": "67gh9012-ijkl-3456-mnop-qrstu8901234",
+        "first_name": "Fisher",
+        "last_name": "Tiger"
+      },
+      "phone": "+96012345678",
+      "email": "jinbe.knight@leverx.com",
+      "skype": "live:jinbe.knight",
+      "cnumber": "C5533446",
+      "citizenship": "Maldives",
+      "visa": []
+    }
+  ]  
